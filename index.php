@@ -25,6 +25,10 @@
   </head>
 
   <body>
+
+  <div class="col-md-12">
   <div class="container">
-    Teste
+    Bem vindo, ainda não tenho nada postado.
+    </div>
+
     </div> 
